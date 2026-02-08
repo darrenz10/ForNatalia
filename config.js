@@ -31,8 +31,8 @@ questions: {
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+    },
 },
-
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
@@ -55,7 +55,8 @@ questions: {
     second: {
         text: "How much do you love me?",          // Second question
         startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        nextBtn: "Next ❤️"      
+    },// Next button text
 },
     third: {
         text: "Will you be my Valentine...?",      // Final question
