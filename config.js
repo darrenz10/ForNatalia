@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "YAY GA SIA SIA W BLJR IT! 🎉💝💖💝💓",
+        message: "semoga setiap valentine dirayain sama u",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
