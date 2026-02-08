@@ -29,7 +29,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹",
+            text: "Can i be your favourite boy? 🌹",
             yesBtn: "Yes!",
             noBtn: "No"
         }
@@ -37,9 +37,9 @@ const CONFIG = {
 
     // Love meter messages
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",
-        high: "IKAN HIU LAGI KAYANG! 🚀💝",
-        normal: "I LOVE YOU SAYANG! 🥰"
+        extreme: "WAW SESAYANG ITUKAHHHHH 🥰🚀💝",
+        high: "SEBANYAK ITU??? 🚀💝",
+        normal: "I LOVE YOU TOOO 🥰"
     },
 
     // Messages that appear after they say "Yes!"
